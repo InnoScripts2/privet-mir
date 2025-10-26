@@ -1,3 +1,3 @@
-module github.com/yourusername/privet-mir
+module github.com/InnoScripts2/privet-mir
 
 go 1.20
